@@ -1,2 +1,1 @@
-# Constante-Jara
-​Modelo matemático da Constante Jara (1,44 \times 10^{-18} kg/m^3) para explicar a matéria escura via Spectral Lag de GRBs.
+Independent Researcher focused on Dark Matter and Cosmology. Creator of the Jara Constant (1.44 \times 10^{-18} kg/m³) for GRB spectral lag validation
